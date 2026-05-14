@@ -1,16 +1,36 @@
-## Hi there 👋
+# Milton Duarte
 
-<!--
-**milton-engineer/milton-engineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Linux Systems Engineer focused on backend systems, infrastructure automation and open-source technologies.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Fedora KDE Contributor
+- Linux Infrastructure & System Stability
+- Backend Development in C, Java and Python
+- L2/L3 Technical Support Specialist
+- Infrastructure Automation & Troubleshooting
+- Open Source Enthusiast
+
+## Technologies
+
+- C
+- Java
+- Python
+- Bash
+- Linux
+- Fedora
+- KDE Plasma
+- Git
+- SQL
+
+## Current Focus
+
+- Linux Infrastructure
+- Automation Tools
+- AI-assisted System Analysis
+- Backend Stability
+- Open Source Development
+
+## Contact
+
+- LinkedIn: https://linkedin.com/in/milton-it-engineer
